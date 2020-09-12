@@ -1,6 +1,6 @@
 {
    Copyright:
-   (c) 2019, Paulo Henrique de Freitas Passella
+   (c) 2020, Paulo Henrique de Freitas Passella
    (passella@gmail.com)
 }
 
