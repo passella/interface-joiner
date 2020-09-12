@@ -1,3 +1,9 @@
+{
+   Copyright:
+   (c) 2019, Paulo Henrique de Freitas Passella
+   (passella@gmail.com)
+}
+
 unit untInterfaceJoiner;
 
 interface
